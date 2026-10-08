@@ -1,0 +1,7 @@
+﻿product_code,product_name,spec,temp_rating_c,rohs,custom_print,moq_m,standard_lead_days,status
+CV420,控制電纜 標準型,4C x 2.0 mm2,90,Y,Y,5000,21,ACTIVE
+CV420H,控制電纜 耐熱型,4C x 2.0 mm2,105,Y,Y,10000,28,ACTIVE
+CV425,控制電纜 標準型,4C x 2.5 mm2,90,Y,Y,5000,21,ACTIVE
+CV425H,控制電纜 耐熱型,4C x 2.5 mm2,105,Y,Y,10000,28,ACTIVE
+PV310,動力電纜,3C x 10 mm2,90,Y,N,3000,25,ACTIVE
+SP999,特殊試作品,2C x 1.5 mm2,80,N,Y,1000,45,REVIEW_ONLY

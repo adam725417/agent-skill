@@ -1,0 +1,7 @@
+﻿customer_code,customer_name,credit_status,payment_terms_days,max_payment_terms_days,customer_tier,currency
+C001,ABC Electronics,GOOD,45,60,A,TWD
+C002,Formosa Automation,GOOD,30,60,A,TWD
+C003,Bright Motion,WATCH,75,60,B,TWD
+C004,Nova Controls,GOOD,60,60,B,TWD
+C005,East Star Trading,BLOCKED,30,30,C,TWD
+C006,TechBridge,GOOD,90,60,B,TWD
